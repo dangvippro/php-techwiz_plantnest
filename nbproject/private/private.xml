@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/manageCategory.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/ordered.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/register.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/outdoor.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/editCategories.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/login_admin.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/favorites.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/logout.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/controlUserAccount.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/assets/css/admins.css</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/nonFlowering.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/addProducts.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/availability.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/manageAccountAdmin.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/classes/Product.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/flowering.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/manageOrders.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/logout_admin.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/home.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/cart.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/addCategories.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/classes/Users.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/manageProduct.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/classes/Categories.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/index.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/soldQuantity.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/editProduct.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/confirmationOrder.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/manageAccount.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/userReview.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/admin/userQueries.php</file>
+            <file>file:/C:/xampp/htdocs/PlantNest/client/login.php</file>
+        </group>
+    </open-files>
+</project-private>
